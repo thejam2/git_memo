@@ -1,7 +1,7 @@
 # git_memo
 
 ## 깃시작
-git init
+`git init`
 
 작업폴더	
 
