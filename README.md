@@ -5,7 +5,8 @@
 
 작업폴더	
 
--git add->	staging area	-git commit->	repository(저장소)
+- git add->	staging area
+- git commit->	repository(저장소)
 
 ### add
 ```
