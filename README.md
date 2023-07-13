@@ -78,3 +78,9 @@ git remote add 작명 주소
 ### 복사
 `git clone 원격저장소주소`
 
+### 기존소스 다른 repository 올릴때
+git remote로 설정하고
+```
+git branch -M main
+git push -u origin main
+```
